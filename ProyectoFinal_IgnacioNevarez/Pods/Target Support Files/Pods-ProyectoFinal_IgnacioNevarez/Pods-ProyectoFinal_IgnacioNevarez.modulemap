@@ -1,0 +1,6 @@
+framework module Pods_ProyectoFinal_IgnacioNevarez {
+  umbrella header "Pods-ProyectoFinal_IgnacioNevarez-umbrella.h"
+
+  export *
+  module * { export * }
+}
